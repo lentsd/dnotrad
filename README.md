@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/dnotrad/dnotrad/blob/main/assets/bg.gif)
 
 About me
 
