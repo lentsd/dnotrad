@@ -1,7 +1,6 @@
 # 👋🏻 Hi, my name is **Daniel Lents**!
-## I'm a beginner *Front-end developer* from Saint-Petersburg.
-### Check my blog: [front.ru](https://www.instagram.com/front.ru/) (6k+ subs) 
-### Check my website: [dnotrad.io](https://dnotrad.github.io/)
+## I'm a *Front-end developer* from Saint-Petersburg.
+### Check my blog: [front.ru](https://www.instagram.com/front.ru/) (6.5k+ subs) 
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
